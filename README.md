@@ -22,6 +22,6 @@ Image from https://xkcd.com/927/ license: https://creativecommons.org/licenses/b
 
 ## Release Notes
 
-### 0.0.01
+### 0.0.1
 
 Please don't use, barely anything here. Really just setting stuff up.
