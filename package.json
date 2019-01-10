@@ -5,7 +5,8 @@
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
   "scripts": {
-    "build": "tsc --declaration"
+    "build": "tsc --declaration",
+    "prepublish": "build"
   },
   "repository": {
     "type": "git",
