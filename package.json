@@ -1,0 +1,29 @@
+{
+  "name": "jffs",
+  "version": "0.0.1",
+  "description": "A simple format for a single endpoint, GET 'API'",
+  "types": "./lib/index.d.ts",
+  "scripts": {
+    "build": "tsc --declaration"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesporter/jffs.git"
+  },
+  "keywords": [
+    "rss",
+    "api",
+    "format",
+    "json",
+    "typescript"
+  ],
+  "author": "James Porter <james@amimetic.co.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamesporter/jffs/issues"
+  },
+  "homepage": "https://github.com/jamesporter/jffs#readme",
+  "devDependencies": {
+    "typescript": "^3.2.2"
+  }
+}
