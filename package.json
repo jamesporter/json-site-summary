@@ -1,7 +1,7 @@
 {
-  "name": "jffs",
-  "version": "0.0.1",
-  "description": "A simple format for a single endpoint, GET 'API'",
+  "name": "json-site-summary",
+  "version": "0.1.0",
+  "description": "A simple format for a single endpoint, GET 'API', in spirit of RSS but slimmed down",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
   "scripts": {
@@ -17,14 +17,15 @@
     "api",
     "format",
     "json",
-    "typescript"
+    "typescript",
+    "site summary"
   ],
   "author": "James Porter <james@amimetic.co.uk>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jamesporter/jffs/issues"
+    "url": "https://github.com/jamesporter/json-site-summary/issues"
   },
-  "homepage": "https://github.com/jamesporter/jffs#readme",
+  "homepage": "https://github.com/jamesporter/json-site-summary#readme",
   "devDependencies": {
     "typescript": "^3.2.2"
   }
